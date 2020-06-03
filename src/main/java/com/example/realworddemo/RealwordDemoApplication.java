@@ -8,6 +8,7 @@ public class RealwordDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RealwordDemoApplication.class, args);
+		System.out.println("Server is running ...");
 	}
 
 }
